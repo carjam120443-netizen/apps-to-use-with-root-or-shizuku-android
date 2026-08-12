@@ -92,6 +92,39 @@ Apps may appear in more than one section when they support both Shizuku and root
 - **Green2Priv** — root-oriented privacy and application-management tooling.
   - Repository: `K3V1991/Green2Priv`
   - Root: ✅
+- **AdAway** — open-source ad blocker with root-based hosts-file support.
+  - Repository: `AdAway/AdAway`
+  - Root: ✅
+
+### Backup & Restore
+- **Neo Backup** — backup and restore apps and app data with advanced root features.
+  - Repository: `NeoApplications/Neo-Backup`
+  - Root: ✅
+
+### Firewall & Network Control
+- **AFWall+** — iptables-based firewall for controlling network access per application.
+  - Repository: `ukanth/afwall`
+  - Root: ✅
+
+### App & Activity Management
+- **Inure** — advanced Android app manager with additional capabilities when root is available.
+  - Repository: `Hamza417/Inure`
+  - Root: ✅
+- **Root Activity Launcher** — launch Android activities and components with root-related capabilities.
+  - Repository: `timschneeb/RootActivityLauncher`
+  - Root: ✅
+
+### Module Management
+- **MRepo** — Magisk module repository/manager project.
+  - Repository: `MRepoApp/MRepo`
+  - Root: ✅
+  - Notes: The repository is currently archived; listed for reference.
+
+### Root & Kernel Ecosystem
+- **KernelSU Manager** — management interface for KernelSU-based rooted devices.
+  - Repository: `solarized-progs/KernelSU-Manager`
+  - Root: ✅
+  - Notes: Third-party KernelSU manager; check the project's status before using it.
 
 ---
 
