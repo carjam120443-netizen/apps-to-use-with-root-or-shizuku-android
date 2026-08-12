@@ -1,4 +1,8 @@
-# apps-to-use-with-root-or-shizuku-android
+# 🤖 Android + 🐧 Linux
+
+## apps-to-use-with-root-or-shizuku-android
+
+> **🤖 Android • 🐧 Linux** — A curated collection of apps and tools for **Shizuku** and **root** on Android.
 
 > **⚠️ Disclaimer:** This repository is a collection of links and information about apps that can be used with **Shizuku** or **root** access on Android. The apps and repositories listed here are created and maintained by their respective developers. **The creators of any referenced app or repository, the creator of Shizuku, and the creator of this repository are not responsible for any damage, data loss, device issues, boot loops, or other problems that may result from using these apps or modifying your device.** Use root/Shizuku features carefully and make sure you understand what an app is doing before granting it elevated access.
 
@@ -13,7 +17,7 @@ Apps may appear in more than one section when they support both Shizuku and root
 
 ---
 
-# Shizuku
+# 🤖 Shizuku
 
 ## Apps
 
@@ -69,7 +73,7 @@ Apps may appear in more than one section when they support both Shizuku and root
 
 ---
 
-# Root
+# 🐧 Root
 
 ## Apps
 
