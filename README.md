@@ -17,28 +17,55 @@ Apps may appear in more than one section when they support both Shizuku and root
 
 ## Apps
 
-### System & Device Management
-- **App management** — tools for managing, disabling, freezing, or inspecting installed apps.
-- **Permission management** — tools for managing Android permissions and app operations.
-- **System settings** — tools for changing Android settings that are normally restricted.
-- **Package management** — tools for working with Android packages and installed applications.
+### App Management & Debloating
+- **Canta** — debloat and uninstall system apps using Shizuku.
+  - Repository: `samolego/Canta`
+  - Shizuku: ✅
+  - Root: ❌
+- **Hail** — freeze, disable, and manage apps.
+  - Repository: `aistra0528/Hail`
+  - Shizuku: ✅
+  - Root: ✅
 
-### Customization
-- **System UI customization** — tools for changing parts of the Android interface.
-- **Launcher & home screen** — tools for customizing the launcher and home screen.
-- **Quick Settings** — tools for modifying or adding Quick Settings functionality.
-- **Status bar & navigation** — tools for customizing system bars and navigation behavior.
+### System Utilities
+- **ShizuTools** — a collection of Android tools built around Shizuku.
+  - Repository: `legendsayantan/ShizuTools`
+  - Shizuku: ✅
+  - Root: ❌
+- **VolumeManager** — advanced volume-management utility.
+  - Repository: `yume-chan/VolumeManager`
+  - Shizuku: ✅
+  - Root: ❌
+- **Android-Screener** — Android system/device utility tooling.
+  - Repository: `jiesou/Android-Screener`
+  - Shizuku: ✅
+  - Root: ❌
 
-### Privacy & Security
-- **Permission control** — tools for managing access granted to applications.
-- **App isolation** — tools for controlling or limiting application behavior.
-- **Privacy utilities** — tools that use Shizuku to access otherwise restricted Android functions.
+### Package Management & Installation
+- **InstallerX-Revived** — advanced Android package installer.
+  - Repository: `wxxsfxyzm/InstallerX-Revived`
+  - Shizuku: ✅
+  - Root: ❌
 
-### Utilities
-- **File managers** — file-management tools that can use Shizuku for additional filesystem access.
-- **Terminal & ADB utilities** — tools for running commands or performing advanced Android management.
-- **Backup & restore** — tools for backing up application data or device configuration where supported.
-- **Diagnostics** — tools for inspecting device and system information.
+### Calling & System Features
+- **ShizuCallRecorder** — call-recording utility built around Shizuku capabilities.
+  - Repository: `kitsumed/ShizuCallRecorder`
+  - Shizuku: ✅
+  - Root: ❌
+
+### Terminal & Advanced Tools
+- **Termux Shizuku Tools** — tools for using Termux together with Shizuku.
+  - Repository: `jecis-repos/termux-shizuku-tools`
+  - Shizuku: ✅
+  - Root: ❌
+
+### Resources
+- **awesome-shizuku** — curated collection of Shizuku-compatible apps and resources.
+  - Repository: `timschneeb/awesome-shizuku`
+  - Shizuku: ℹ️ Resource list
+- **Shizuku API** — official API repository for developers building Shizuku-enabled apps.
+  - Repository: `RikkaApps/Shizuku-API`
+  - Shizuku: ℹ️ Developer resource
 
 ---
 
@@ -46,31 +73,21 @@ Apps may appear in more than one section when they support both Shizuku and root
 
 ## Apps
 
-### System & Device Management
-- **System modification** — tools for modifying Android system components.
-- **Debloating** — tools for removing or disabling unwanted system packages.
-- **Kernel & system control** — tools for controlling supported kernel or system features.
-- **Package management** — advanced tools for managing installed packages with root access.
+### System Management & Modules
+- **Magisk Module Manager** — manager for Magisk modules.
+  - Repository: `Androidacy/MagiskModuleManager`
+  - Root: ✅
+- **SystemlessDebloater** — systemless debloating utility for rooted Android devices.
+  - Repository: `zgfg/SystemlessDebloater`
+  - Root: ✅
+- **SystemlessDebloater (Magisk Modules Alt Repo)** — alternate repository for the SystemlessDebloater module.
+  - Repository: `Magisk-Modules-Alt-Repo/SystemlessDebloater`
+  - Root: ✅
 
-### Customization
-- **System UI customization** — tools for modifying system UI components.
-- **Themes & overlays** — tools for applying system-level themes or overlays.
-- **Fonts & boot animation** — tools for modifying supported system appearance elements.
-
-### Performance
-- **CPU & GPU management** — tools for monitoring or controlling supported performance settings.
-- **Battery management** — tools for advanced battery and wakelock management.
-- **Thermal management** — tools for monitoring or configuring supported thermal behavior.
-
-### Privacy & Security
-- **Firewall & network control** — tools for controlling network access at a deeper system level.
-- **Permission control** — tools for managing application access with root privileges.
-- **System auditing** — tools for inspecting system-level behavior and configuration.
-
-### Backup & Recovery
-- **App/data backup** — tools for advanced application and data backups.
-- **System backup** — tools for backing up supported system components.
-- **Recovery utilities** — tools for working with rooted/recovery-based Android setups.
+### Privacy & App Management
+- **Green2Priv** — root-oriented privacy and application-management tooling.
+  - Repository: `K3V1991/Green2Priv`
+  - Root: ✅
 
 ---
 
@@ -82,7 +99,9 @@ When adding an app, use this format:
 - **Type:** Shizuku / Root / Both
 - **Category:** System & Device Management / Customization / Privacy & Security / Utilities / etc.
 - **Description:** Short explanation of what the app does.
-- **Link:** Official website or official repository
+- **Repository:** `owner/repository`
+- **Shizuku:** ✅ / ❌ / ℹ️
+- **Root:** ✅ / ❌ / ℹ️
 - **Notes:** Any important compatibility, Android-version, or permission information.
 
 ## Important
